@@ -3,16 +3,12 @@ A number guessing game. The Exact or closest to the generated number wins
 
 # JavaScript-Project
 
-
-
 ## Contributors
 ### Add your name here
 1. BoaduJnr
 
-
 ## Project deployment link
-- https://boadujnr.github.io/HTML-CSS-Portfolio-Project/
-
+- 
 
 **Overview**
 -
@@ -25,7 +21,6 @@ If it ends in draw, you win
 ***Round***: Keeps track of current round.  
 ***Target***: Outputs a random generated number which you guessed.  
 ***Score***: Keeps track of the number of wins each competitor has made.
-
 
 **Game Guidelines**
 -
