@@ -28,3 +28,6 @@ Make a number guess by typing in a number between 0 and 9.
 Click "Make a Guess" to find who won.  
 Click "Next Round" to enter next round
  
+---
+fontsize: 24pt
+---
