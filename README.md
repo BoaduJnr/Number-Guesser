@@ -16,7 +16,7 @@ You and a computer have to make guess of a number between 0 and 9. The Number is
 You win or lose depending on either you guessed right or your number is closer to the generated number than the number of computer.
 If it ends in draw, you win
 
-**Features*Target
+**Features**
 -
 ***Round***: Keeps track of current round.  
 ***Target***: Outputs a random generated number which you guessed.  
@@ -28,6 +28,3 @@ Make a number guess by typing in a number between 0 and 9.
 Click "Make a Guess" to find who won.  
 Click "Next Round" to enter next round
  
----
-fontsize: 24pt
----
